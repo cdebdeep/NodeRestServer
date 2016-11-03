@@ -1,0 +1,1 @@
+typings install dt~node --global
